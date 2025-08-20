@@ -14,5 +14,5 @@ let str1 = "madam";
 let str2 = "hello";
 
 
-console.log(isPalindrome("madam")); 
-console.log(isPalindrome("hello")); 
+// console.log(isPalindrome("madam")); 
+// console.log(isPalindrome("hello")); 

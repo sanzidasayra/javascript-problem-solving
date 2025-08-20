@@ -8,4 +8,4 @@ function getEvenNumbers(arr){
     return evens;
 }
 
-console.log(getEvenNumbers([1, 2, 3, 4, 5, 6])); 
+// console.log(getEvenNumbers([1, 2, 3, 4, 5, 6])); 

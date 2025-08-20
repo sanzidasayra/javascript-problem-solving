@@ -16,4 +16,4 @@ function pingPongArray() {
     return result.join(", ");
 }
 
-console.log(pingPongArray());
+// console.log(pingPongArray());

@@ -10,5 +10,5 @@ function capitalizeFirstLetter(str) {
   return capitalizedWords.join(' ');
 }
 
-console.log(capitalizeFirstLetter("hello world")); 
+// console.log(capitalizeFirstLetter("hello world")); 
 

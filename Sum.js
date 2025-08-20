@@ -6,4 +6,4 @@ function sumArrayNumbers(arr) {
   return sum;
 }
 
-console.log(sumArrayNumbers([1, 2, 3, 4])); 
+// console.log(sumArrayNumbers([1, 2, 3, 4])); 

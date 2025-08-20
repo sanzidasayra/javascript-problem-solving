@@ -8,4 +8,4 @@ function findMaximumNumber(nums) {
     return maxnum;
 }
 
-console.log(findMaximumNumber([5, 1, 9, 3]));
+// console.log(findMaximumNumber([5, 1, 9, 3]));
